@@ -1,1 +1,1 @@
-# Find-out-if-numbers-are-identical-
+I have got this homework, Write a program that reads ten numbers entered by the user and indicates if there are any of them identical. I didn´t program anything for like a year so I forgot a lot of stuff, and I didn´t find anything releated to this topic. i tried using field and if..else but no matter what I do it always shows that "There are no identical numbers". 
