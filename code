@@ -1,0 +1,21 @@
+int pole[10];
+int i,n,j;
+
+
+for (i = 0; i <10; i++ ){
+    printf ("\n type [%d] number: ",i);
+    scanf ("%d",&pole[i]);
+}
+
+int f=0;
+
+for( i=0;i<=n;i++){
+ for( j=0;j<i;j++){
+   if(pole[i] == pole[j]){  
+        printf("number at position %d is equal to number at position %d",i,j);
+        
+   }
+  }
+}
+if (f == 0)
+printf("There are no identical numbers");
